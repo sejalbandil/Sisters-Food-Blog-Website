@@ -1,0 +1,75 @@
+<style>
+body {background-color: oldlace;
+
+}
+h1   {color: lightcoral;
+  font-family:Didot;
+  text-align: center;
+
+
+}
+h2   {color: lightpink;
+  font-family:Helvetica
+}
+h3   {color: lightskyblue;
+  font-family:Helvetica;
+}
+h4   {color: lightsteelblue;}
+h5   {color: darkseagreen;
+  text-decoration: underline;
+
+
+}
+p    {color: gray;
+  font-family:Times New Roman;}
+li    {color: gray;
+  font-family:Times New Roman;}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+}
+body {background-color: MintCream ;}
+
+//* Add a black background color to the top navigation */
+.topnav {
+  background-color: ;
+  overflow: hidden;
+}
+
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: ;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: grey;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: none;
+  color:lightskyblue;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: grey;
+  color: grey;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: grey;
+  color: grey;
+}
+</style>
